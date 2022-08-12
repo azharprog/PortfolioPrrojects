@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning
 - 💞️ I’m looking to collaborate
 - 📫 How to reach me email:- azharprog2306@gmail.com
+- HAVE Created data analysis projects using Kaggle Dataset, did some profound analysis on many datasets and would like to learn more and explore data science. 
 
 <!---
 azharprog/azharprog is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
