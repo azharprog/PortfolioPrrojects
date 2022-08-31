@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @azharprog
 - 👀 I’m interested in Data Analysis and Big DATA analysis
-- 🌱 I’m currently learning
+- 🌱 I’m always up for learning 
 - 💞️ I’m looking to collaborate
 - 📫 How to reach me email:- azharprog2306@gmail.com
 - HAVE Created data analysis projects using Kaggle Dataset, did some profound analysis on many datasets and would like to learn more and explore data science. 
