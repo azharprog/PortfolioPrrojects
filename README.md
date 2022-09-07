@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @azharprog
-- 👀 I’m interested in Data Analysis and Big DATA analysis
+- 👀 I’m interested in Data Analysis and Data Science
 - 🌱 I’m always up for learning 
 - 💞️ I’m looking to collaborate
 - 📫 How to reach me email:- azharprog2306@gmail.com
