@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @azharprog
+- 👋 Hi, I’m Azhar Shaikh
 - 👀 I’m interested in Data Analysis and Data Science
 - 🌱 I’m always up for learning 
 - 💞️ I’m looking to collaborate
